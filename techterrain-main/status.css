@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.welcome{
+  font-size: 30px;
+  font-style: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: 100px;
+  margin-top: 80px;
+}
+.pick{
+  margin-top: 40px;
+  font-size: 18px;
+  margin-left: 100px;
+}
+.business{
+  height: 235px;
+  width: 220px;
+  border: 3px solid;
+  border-radius: 5px;
+  border-color: black;
+  margin-left: 415px;
+  margin-bottom: -330px;
+}
+.friends{
+  height: 235px;
+  width: 220px;
+  border: 3px solid;
+  border-radius: 5px;
+  border-color: black;
+  margin-left: 85px;
+  margin-bottom: -328px;
+}

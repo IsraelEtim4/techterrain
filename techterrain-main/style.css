@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#Logo{
+  display: inline-block;
+  margin-bottom: 16px;
+  margin-top: -40px;
+  height: 300px;
+  margin-left: 20px;
+}
+.welcome{
+  font-size: 30px;
+  margin-left: -250px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.stext{
+  margin-left: 75px;
+  margin-top: 10px;
+}
+.sign{
+  margin-left: 75px;
+  margin-top: 50px;
+}
+.order{
+  font-size: 20px;
+  margin-top: 55px;
+  margin-bottom: -10px;
+  margin-left: 75px;
+}
+.email{
+  margin-left: 78px;
+  padding: 10px 70px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color: rgb(170, 170, 170);
+  border-radius: 5px;
+}
+.btn{
+  border: 1px solid;
+  margin-left: 78px;
+  padding: 10px 92px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+#wallpaper{
+  width: 862px;
+  margin-left: 495px;
+  margin-top: -595px;
+  height: 685px;
+  margin-bottom: -50px;/
+}
+#video{
+  height: 300px;
+  width: 270px;
+  margin-left: 850px;
+  margin-top: -700px;
+  margin-bottom: -30px;
+}
+#records{
+  height: 240px;
+  width: 230px;
+  margin-left: -70px;
+  margin-top: -700px;
+  margin-bottom: -30px;
+}
+.stext2{
+  font-style: italic;
+  position: absolute;
+  top: 280px;
+  left: 600px;
+}
